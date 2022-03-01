@@ -22,27 +22,27 @@
                                 <a href="/" class="nav-link active">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="services" class="nav-link">Services</a>
+                                <a href="/services" class="nav-link">Services</a>
                             </li>
                             <li class="nav-item">
-                                <a href="api" class="nav-link">API Intermediates</a>
+                                <a href="/api" class="nav-link">API Intermediates</a>
                             </li>
                             <li class="nav-item">
                                 <a href="/#" class="nav-link">Manufacturing <i class="fas fa-chevron-down"></i></a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="policies" class="nav-link">Policies</a>
+                                        <a href="/policies" class="nav-link">Policies</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="manufacturing" class="nav-link">Manufacturing Details</a>
+                                        <a href="/manufacturing" class="nav-link">Manufacturing Details</a>
                                     </li>
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="contact" class="nav-link">Contact</a>
+                                <a href="/contact" class="nav-link">Contact</a>
                             </li>
                             <li class="nav-item">
-                                <a href="about" class="nav-link">About Us</a>
+                                <a href="/about" class="nav-link">About Us</a>
                             </li>
                         </ul>
                         <div class="others-options">
